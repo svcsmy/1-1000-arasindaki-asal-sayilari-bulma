@@ -1,0 +1,1 @@
+# 1-1000-arasindaki-asal-sayilari-bulma
